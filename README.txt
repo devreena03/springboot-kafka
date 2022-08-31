@@ -13,3 +13,5 @@ start zookeeper:
 
 Start server:
 .\bin\windows\kafka-server-start.bat .\config\server.properties
+
+Note: model in both producer and consumer has same package
